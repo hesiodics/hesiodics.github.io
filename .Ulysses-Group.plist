@@ -4,11 +4,5 @@
 <dict>
 	<key>createMarkedFile</key>
 	<false/>
-	<key>sheetClusters</key>
-	<array>
-		<array>
-			<string>index.html.text</string>
-		</array>
-	</array>
 </dict>
 </plist>

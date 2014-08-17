@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>defaultPathExtensions</key>
-	<string>txt</string>
+	<string>md</string>
 	<key>textFileType</key>
 	<string>Plain Text</string>
 	<key>useInlineLinks</key>
